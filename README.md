@@ -7,5 +7,5 @@ This project demonstrates the basics of frontend web development using HTML and 
 ## Features
 - Responsive design using CSS media queries
 - Basic layout with Flexbox or Grid
-- Simple HTML structure (headers, paragraphs, lists, forms, etc.)
+- Simple HTML structure (headers, paragraphs, etc.)
 - Styling with CSS for colors, fonts, spacing, and alignment
