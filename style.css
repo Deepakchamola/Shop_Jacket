@@ -1,0 +1,202 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  width: 100%;
+}
+
+#main{
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+}
+
+#nav{
+  width: 100%;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.11);
+  position: sticky;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2vw 4vw;
+}
+
+#nav h1{
+  font-size: 2vw;
+  font-weight: 400;
+}
+
+#nav .Links{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2vw;
+}
+
+.Links h4{
+  color: #000000;
+  font-size: 1.5vw;
+  font-weight: 500;
+  cursor: pointer;
+}
+.Links h4:hover{
+  font-size: 1.6vw;
+}
+.Links h4 i:hover{
+  font-size: 1.2vw;
+  padding: 7px;
+  border-radius: 50%;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#center{
+  width: 100%;
+  padding: 15px 50px;
+  margin-bottom: 10px;
+}
+
+#center h1{
+  font-size: 3.8vw;
+  font-weight: 300;
+  line-height: 3.9vw;
+}
+
+#center-in{
+  height: 100px;
+  width: 100%;
+  margin-top: 35px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#center-in p{
+  font-size: 1.8vw;
+  line-height: 2vw;
+  font-weight: 500;
+}
+
+#right{
+  width: 170px;
+}
+
+.elem{
+  padding: 10px 2px;
+  border-top: 2px solid black;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  gap: 1vw;
+  position: relative;
+  cursor: pointer;
+}
+#right .elem:hover{
+  background: #0000001a;
+}
+#right .elem a{
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  font-size: 15px;
+}
+#right .elem:hover a{
+  font-size: 16px;
+}
+#right .elem i{
+  font-size: 1vw;
+  position: absolute;
+  left: 70%;
+}
+#right .elem:hover i{
+  font-size: 1.5vw;
+  left: 90%;
+}
+
+#bottom{
+  padding: 1vw 3vw;
+  height: 100%;
+  width: 100%;
+}
+#bottom img{
+  height: 50vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+
+@media (max-width:600px) {
+  #nav {
+    height: 50px;
+    gap: 5px;
+    padding: 0 10px;
+  }
+  #nav h1{
+    font-size: 4vw;
+  }
+  #nav h4{
+    font-size: 15px;
+  }
+  #center{
+    width: 100%;
+    padding: 30px 40px;
+  }
+  #center h1{
+    font-size: 6vw;
+    font-weight: 300;
+    line-height: 6.5vw;
+  } 
+  #center-in{
+    height: 210px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  #center-in p{
+    font-size: 2.8vw;
+    line-height: 4.5vw;
+    font-weight: 550;
+  }
+  #right{
+    width: 100%;
+  }
+  
+  .elem{
+    padding: 10px 0;
+    border-top: 2px solid black;
+  }
+  
+  #right .elem a{
+    text-decoration: none;
+    color: black;
+    font-weight: 550;
+    font-size: 3vw;
+  }
+  #right .elem:hover a{
+    font-size: 3.5vw;
+  }
+
+  #right .elem i{
+    font-size: 3vw;
+    position: absolute;
+    left: 45%;
+  }
+  #right .elem:hover i{
+    font-size: 3.7vw;
+    left: 90%;
+  }
+
+  #bottom{
+    align-items: center;
+    padding: 2vw 7vw;
+  }
+  #bottom img{
+    height: 35vh;
+    width: 85vw;
+    margin-left: 5px;
+  }
+}
