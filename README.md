@@ -2,7 +2,7 @@
 ## Frontend Basics Project
 - Html
 - Css
-- Responsiveness
+- responsiveness
 
 ## Description
 This project demonstrates the basics of frontend web development using HTML and CSS. The goal is to create a static webpage that showcases key design and layout principles, with a focus on responsive design and basic styling.
@@ -14,8 +14,7 @@ This project demonstrates the basics of frontend web development using HTML and 
 - Styling with CSS for colors, fonts, spacing, and alignment
 
 ## Screenshot
-- Full Screen
 ![Image Alt](https://github.com/Deepakchamola/Shop_Jacket/blob/b91923933f6b697c90afd8d5c26650af2c2b39db/Shop_Jacket.png)
-  
-- Responsive
-![Image Alt](https://github.com/Deepakchamola/Shop_Jacket/blob/ae7aaf432bcaf626ef665dae5be9d5db5759df99/Shop_Jacket-2.png)
+
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.
