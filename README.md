@@ -11,5 +11,8 @@ This project demonstrates the basics of frontend web development using HTML and 
 - Styling with CSS for colors, fonts, spacing, and alignment
 
 ## Screenshot
+- Full Screen
+![Image Alt](https://github.com/Deepakchamola/Shop_Jacket/blob/b91923933f6b697c90afd8d5c26650af2c2b39db/Shop_Jacket.png)
+  
 - Responsive
 ![Image Alt](https://github.com/Deepakchamola/Shop_Jacket/blob/e60105af7439db376fc24b96d6cd7a5e964e043f/Shop_Jacket-2.png)
