@@ -18,7 +18,7 @@ This project demonstrates the basics of frontend web development using HTML and 
 <img src="https://github.com/Deepakchamola/Shop_Jacket/blob/b91923933f6b697c90afd8d5c26650af2c2b39db/Shop_Jacket.png" width="800" height="500" />
 
 ### Responsive
-<img src="https://github.com/Deepakchamola/Shop_Jacket/blob/ecb4b3c64797dd1d8ebf53e8d9590b6a069135a3/Shop_Jacket-2.png" width="300" height="400" />
+<img src="https://github.com/Deepakchamola/Shop_Jacket/blob/ecb4b3c64797dd1d8ebf53e8d9590b6a069135a3/Shop_Jacket-2.png" width="350" height="500" />
 
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
