@@ -17,8 +17,8 @@ This project demonstrates the basics of frontend web development using HTML and 
 <img src="https://github.com/Deepakchamola/Shop_Jacket/blob/b91923933f6b697c90afd8d5c26650af2c2b39db/Shop_Jacket.png" width="800" height="500" />
 
 ## Live Demo
-Explore the live demo of the Shop_Jacket Website: <a src="https://deepakchamola.github.io/Shop_Jacket/
-" />
+Explore the live demo of the Shop_Jacket Website: <a url="https://deepakchamola.github.io/Shop_Jacket/
+"></a>
 
 
 ## Acknowledgements
